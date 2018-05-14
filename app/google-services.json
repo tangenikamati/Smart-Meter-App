@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "472394077567",
+    "firebase_url": "https://smartmeter-a473b.firebaseio.com",
+    "project_id": "smartmeter-a473b",
+    "storage_bucket": "smartmeter-a473b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472394077567:android:b78b3e29f994385e",
+        "android_client_info": {
+          "package_name": "com.example.hacker.smartmeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472394077567-5c809cf6ttno6st6j7nijeih6sggl0jr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hacker.smartmeter",
+            "certificate_hash": "72cd84aa9a5482ec89c1a309dcea5894a880499f"
+          }
+        },
+        {
+          "client_id": "472394077567-5o2atotv61o9d6t50040ppmc9prm7180.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA--zLauzHBsBO1AvcKbpdqQim57syEhpo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472394077567-5o2atotv61o9d6t50040ppmc9prm7180.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

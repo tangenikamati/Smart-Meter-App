@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.hacker.smartmeter.HomeActivity">
+    <item
+        android:id="@+id/logout"
+        android:orderInCategory="103"
+        android:title="@string/logout"
+        android:visible="true"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/details"
+        android:orderInCategory="104"
+        android:title="@string/details"
+        android:visible="true" />
+    <item
+        android:id="@+id/settings"
+        android:orderInCategory="105"
+        android:title="@string/action_settings" />
+</menu>
